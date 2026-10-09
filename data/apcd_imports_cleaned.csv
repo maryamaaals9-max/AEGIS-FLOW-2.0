@@ -1,0 +1,224 @@
+﻿Year,Quarter,Region EN,Region AR,Value in (AED),Weight (Ton),Region Original,Weight Review Flag
+2019,1,South America,أمريكا الجنوبية,286124094.7,46585.37,South America,False
+2019,2,Europe,أوروبا,294982733.6,28829.94,Europe,False
+2019,2,North America,أمريكا الشماليّة,97086504.93,10803.31,North America,False
+2019,2,South America,أمريكا الجنوبية,347704384.0,57932.64,South America,False
+2019,3,Asia,آسيا,979969119.6,115877.61,Asia,False
+2019,3,Africa,أفريقيا,15133447.3682,1642.84805,Africa,False
+2019,4,Europe,أوروبا,339306240.2,30953.3,Europe,False
+2019,4,North America,أمريكا الشماليّة,50873914.17,8015.9,North America,False
+2017,1,Africa,أفريقيا,13845999.8109,2146.730962,Africa,False
+2017,2,Asia,آسيا,750514866.1846,134824.42448,Asia,False
+2017,2,Europe,أوروبا,270462034.4172,34250.38545,Europe,False
+2017,2,America,أمريكا الشماليّة,443730676.3527,72328.34272,America,False
+2017,2,Oceania,أوشانيا,26690872.9654,2038.07907,Oceania,False
+2017,3,Europe,أوروبا,283352464.6103,31699.179976,Europe,False
+2017,3,Oceania,أوشانيا,23554267.0379,1834.40759,Oceania,False
+2017,4,Asia,آسيا,830015290.8939,158065.32945,Asia,False
+2020,1,Europe,أوروبا,355320074.2953,33486.06324,Europe,False
+2020,2,Africa,أفريقيا,13645691.7152,1512.8159,Africa,False
+2020,2,North America,أمريكا الشماليّة,185820575.2343,12872.17373,NORTH AMERICA,False
+2020,4,Asia,آسيا,1069032419.4889,145858.99936000002,Asia,False
+2020,4,Africa,أفريقيا,18971315.4807,2601.194,Africa,False
+2020,4,North America,أمريكا الشماليّة,79278726.3766,16370.13511,NORTH AMERICA,False
+2020,4,Oceania,أوشانيا,16500219.6734,1344.10494,Oceania,False
+2021,1,South America,أمريكا الجنوبية,258157139.0648,122665.33083,SOUTH AMERICA,False
+2021,2,Africa,أفريقيا,16794644.4475,1553.3534,Africa,False
+2021,2,Oceania,أوشانيا,18841216.8524,1747.55188,Oceania,False
+2021,3,Asia,آسيا,1358080772.7396,202994.58005,Asia,False
+2021,3,Africa,أفريقيا,15556856.671,1729.39989,Africa,False
+2021,4,Europe,أوروبا,605416988.4445001,52056.31248,Europe,False
+2018,1,Asia,آسيا,938591595.5102,123907.9708372,Asia,False
+2018,1,North America,أمريكا الشماليّة,43353092.2571,5498.50547,North America,False
+2018,2,Africa,أفريقيا,9253638.8,1426.31,Africa,False
+2018,2,South America,أمريكا الجنوبية,291505738.1663,49231.343592,South America,False
+2018,2,Oceania,أوشانيا,26647729.7668,1915.35961,Oceania,False
+2018,3,Europe,أوروبا,216605433.6162,23388.29308,Europe,False
+2018,3,Oceania,أوشانيا,22411073.3185,1822.65121,Oceania,False
+2018,4,Asia,آسيا,786250794.04,144400.19,Asia,False
+2018,4,North America,أمريكا الشماليّة,39273101.5384,4381.173789,North America,False
+2018,4,South America,أمريكا الجنوبية,272744396.9391,176904.84995,South America,False
+2018,4,Oceania,أوشانيا,17122386.1113,1435.99172,Oceania,False
+2022,1,South America,أمريكا الجنوبية,416253631.2524,58568.96023,SOUTH AMERICA,False
+2022,1,Other,اخرى,313445.23,39.5578,Other,False
+2022,2,Other,اخرى,273692.25,22.90346,Other,False
+2022,2,Oceania,أوشانيا,33310401.9623,2267.27765,Oceania,False
+2022,3,Asia,آسيا,1458054659.62,190447.18617,Asia,False
+2022,3,Africa,أفريقيا,17035786.83,1526.44069,Africa,False
+2022,3,North America,أمريكا الشماليّة,121165302.49,13238.343330000002,NORTH AMERICA,False
+2022,3,South America,أمريكا الجنوبية,583210122.77,68159.48526,SOUTH AMERICA,False
+2022,3,Other,اخرى,465250.0,45.33,Other,False
+2022,4,North America,أمريكا الشماليّة,134112812.4,10163.84898,NORTH AMERICA,False
+2022,4,Other,اخرى,441923.15,33.4349,Other,False
+2023,2,Africa,أفريقيا,35393615.49,1995789.93,Africa,False
+2023,2,Europe,أوروبا,1018416988.35,61876934.54,Europe,True
+2023,2,North America,أمريكا الشماليّة,1060775176.99,32656946.09,NORTH AMERICA,True
+2023,2,Other,غير محدد,6684.02,350.0,Other,False
+2023,3,Asia,آسيا,2257048156.01,241257326.33,Asia,True
+2023,3,Europe,أوروبا,1122552133.52,67619964.22,Europe,True
+2023,3,South America,أمريكا الجنوبية,688492946.1700001,64333036.580000006,SOUTH AMERICA,True
+2023,3,Other,غير محدد,169336.92,14127.4,Other,False
+2023,4,Europe,أوروبا,1548521930.99,72957822.37,Europe,True
+2023,4,North America,أمريكا الشماليّة,446132394.97,20306512.52,NORTH AMERICA,True
+2025,1,Asia,آسيا,2216947504.0,203729.54195,ASIA,False
+2025,1,North America,أمريكا الشماليّة,157326780.94,17387.41774,NORTH AMERICA,False
+2025,1,South America,أمريكا الجنوبية,583900276.73,69033.79793999999,SOUTH AMERICA,False
+2025,2,Africa,أفريقيا,37614876.56999999,2774.59254,AFRICA,False
+2025,2,Europe,أوروبا,859257412.7900001,60138.76404,EUROPE,False
+2025,2,North America,أمريكا الشماليّة,190679772.21,24382.94452,NORTH AMERICA,False
+2025,3,South America,أمريكا الجنوبية,658377389.09,91088.73823,SOUTH AMERICA,False
+2025,4,Europe,أوروبا,1122558781.73,70973.15389,EUROPE,False
+2025,4,North America,أمريكا الشماليّة,233706408.68,25928.25847,NORTH AMERICA,False
+2025,4,Other,اخرى,1127539.06,38.7677,OTHER,False
+2024,1,Asia,آسيا,2392119247.26,302074519.97,Asia,True
+2024,1,Africa,أفريقيا,31146153.0,2015567.45,Africa,False
+2024,1,South America,أمريكا الجنوبية,467401458.53,48575360.52,SOUTH AMERICA,True
+2024,2,Asia,آسيا,2193057154.49,251320180.55,Asia,True
+2024,2,Africa,أفريقيا,27955886.01,2042573.74,Africa,False
+2024,3,Asia,آسيا,2155938315.85,234437276.15,Asia,True
+2024,4,Europe,أوروبا,1055967641.99,73936547.11999999,Europe,True
+2024,4,North America,أمريكا الشماليّة,169843702.33999997,17700245.6,NORTH AMERICA,True
+2021,1,Europe,أوروبا,439179565.9932,40711.81868,Europe,False
+2021,2,North America,أمريكا الشماليّة,73828954.9034,8477.54795,NORTH AMERICA,False
+2021,2,South America,أمريكا الجنوبية,193265571.0853,35417.83193,SOUTH AMERICA,False
+2021,3,Europe,أوروبا,622731788.1965,56313.33898,Europe,False
+2021,3,South America,أمريكا الجنوبية,274919959.1444,74873.31617,SOUTH AMERICA,False
+2021,3,Oceania,أوشانيا,20859673.7712,1874.54996,Oceania,False
+2021,4,Asia,آسيا,1216401779.6364002,194841.77506,Asia,False
+2021,4,Africa,أفريقيا,22015008.3836,2413.27302,Africa,False
+2019,1,North America,أمريكا الشماليّة,68932715.33,10104.55,North America,False
+2019,2,Asia,آسيا,881866924.6,100212.19,Asia,False
+2019,3,Europe,أوروبا,299219767.8,30415.54,Europe,False
+2019,3,Oceania,أوشانيا,17178051.0794,1250.13016,Oceania,False
+2019,4,Africa,أفريقيا,15183219.9221,1635.62508,Africa,False
+2019,4,South America,أمريكا الجنوبية,291399225.7,52787.87,South America,False
+2019,4,Oceania,أوشانيا,18967505.4937,1472.32321,Oceania,False
+2017,1,Asia,آسيا,753153000.0405,123116.32083,Asia,False
+2017,1,Oceania,أوشانيا,28847327.3,2336.74265,Oceania,False
+2017,3,America,أمريكا الشماليّة,330707323.4019,54309.73495,America,False
+2017,4,Africa,أفريقيا,10284586.8964,1632.3974,Africa,False
+2017,4,Europe,أوروبا,245875585.6475,29162.462629,Europe,False
+2017,4,America,أمريكا الشماليّة,354486169.9593,60789.28471,America,False
+2017,4,Oceania,أوشانيا,26633607.6521,2001.69527,Oceania,False
+2023,1,Africa,أفريقيا,23932291.24,1654009.99,Africa,False
+2023,1,North America,أمريكا الشماليّة,248699215.16,15507689.86,NORTH AMERICA,True
+2023,1,South America,أمريكا الجنوبية,495392582.73,56174595.41,SOUTH AMERICA,True
+2023,2,Oceania,أوشانيا,20669406.6,1599266.49,Oceania,False
+2023,4,Asia,آسيا,2408876209.85,306522549.69,Asia,True
+2023,4,South America,أمريكا الجنوبية,454172743.18,58128480.37,SOUTH AMERICA,True
+2023,4,Oceania,أوشانيا,21857860.71,1651216.95,Oceania,False
+2022,1,Africa,أفريقيا,29978545.992,2514.51016,Africa,False
+2022,2,Africa,أفريقيا,24555632.5718,2131.12128,Africa,False
+2022,2,North America,أمريكا الشماليّة,112048640.1675,18112.40409,NORTH AMERICA,False
+2022,3,Europe,أوروبا,908965899.68,64084.05349,Europe,False
+2022,4,Africa,أفريقيا,19877830.69,1813.08783,Africa,False
+2022,4,Europe,أوروبا,824131569.64,58517.322400000005,Europe,False
+2022,4,Oceania,أوشانيا,27209316.76,1865.09432,Oceania,False
+2018,1,Oceania,أوشانيا,16750711.9209,1334.33227,Oceania,False
+2018,2,Asia,آسيا,762854306.44,129057.32,Asia,False
+2018,2,Europe,أوروبا,235722049.994,29579.112009,Europe,False
+2018,3,Asia,آسيا,752320086.62,164784.26,Asia,False
+2018,3,South America,أمريكا الجنوبية,311143995.5823,51502.565432,South America,False
+2020,3,South America,أمريكا الجنوبية,172236247.5789,28971.92851,SOUTH AMERICA,False
+2020,3,Oceania,أوشانيا,6784431.4304,620.83934,Oceania,False
+2020,4,Europe,أوروبا,410734014.23,46851.23505,Europe,False
+2020,4,South America,أمريكا الجنوبية,201617848.8951,38397.62627,SOUTH AMERICA,False
+2024,1,Europe,أوروبا,1203892381.6,48809176.89,Europe,True
+2024,1,North America,أمريكا الشماليّة,313814431.62,19658951.65,NORTH AMERICA,True
+2024,1,Oceania,أوشانيا,19500965.7,1536564.81,Oceania,False
+2024,2,North America,أمريكا الشماليّة,372549339.93,28730900.78,NORTH AMERICA,True
+2024,2,South America,أمريكا الجنوبية,647037515.92,77904608.67999999,SOUTH AMERICA,True
+2024,3,Africa,أفريقيا,33493656.04,2443783.36,Africa,False
+2024,3,South America,أمريكا الجنوبية,744780862.3599999,86003754.39,SOUTH AMERICA,True
+2024,4,Asia,آسيا,2181918175.71,196982211.95,Asia,True
+2024,4,Africa,أفريقيا,40281042.53,3057217.57,Africa,False
+2025,1,Oceania,أوشانيا,21405995.58,1421.30065,OCEANIA,False
+2025,3,Asia,آسيا,2542553431.58,211258.477,ASIA,False
+2025,3,Europe,أوروبا,1217522032.4,73286.41467,EUROPE,False
+2025,3,Oceania,أوشانيا,44613106.88,3018.03114,OCEANIA,False
+2025,4,Africa,أفريقيا,30720106.5,2364.27392,AFRICA,False
+2025,4,Oceania,أوشانيا,41570467.77,2665.3619,OCEANIA,False
+2021,1,Asia,آسيا,1309885064.1502,154740.62225999995,Asia,False
+2021,1,Africa,أفريقيا,17496737.6352,1842.19845,Africa,False
+2021,1,North America,أمريكا الشماليّة,64058449.1991,8096.14699,NORTH AMERICA,False
+2021,1,Oceania,أوشانيا,15818052.5905,1244.09169,Oceania,False
+2021,2,Asia,آسيا,1317595792.466,185914.19008,Asia,False
+2021,2,Europe,أوروبا,519513961.2898001,50385.96519,Europe,False
+2021,3,North America,أمريكا الشماليّة,70056645.76200001,8151.5686,NORTH AMERICA,False
+2021,4,North America,أمريكا الشماليّة,90208498.084,12698.14388,NORTH AMERICA,False
+2021,4,South America,أمريكا الجنوبية,325527543.42660004,325609.17717000004,SOUTH AMERICA,False
+2021,4,Oceania,أوشانيا,16415294.1506,1211.31237,Oceania,False
+2019,1,Asia,آسيا,920900870.0,125482.0,Asia,False
+2019,1,Africa,أفريقيا,15089203.3416,1982.5585,Africa,False
+2019,1,Europe,أوروبا,300447200.0,29132.73,Europe,False
+2019,1,Oceania,أوشانيا,20461242.7399,1668.17712,Oceania,False
+2019,2,Africa,أفريقيا,14564455.8595,1485.62837,Africa,False
+2019,2,Oceania,أوشانيا,19197195.3187,1333.26692,Oceania,False
+2019,3,North America,أمريكا الشماليّة,65453022.52,10172.3,North America,False
+2019,3,South America,أمريكا الجنوبية,281280730.7,55675.3,South America,False
+2019,4,Asia,آسيا,907151332.4,120218.42,Asia,False
+2017,1,Europe,أوروبا,287426646.7068,39909.536947,Europe,False
+2017,1,America,أمريكا الشماليّة,366819904.2936,65783.54075,America,False
+2017,2,Africa,أفريقيا,11755480.0423,1675.4092999999998,Africa,False
+2017,3,Asia,آسيا,817838897.7795,146960.59035,Asia,False
+2017,3,Africa,أفريقيا,10594486.8141,1509.6223489999998,Africa,False
+2020,1,Asia,آسيا,1010202046.6702,113617.65418,Asia,False
+2020,1,Africa,أفريقيا,21685180.9745,2359.92682,Africa,False
+2020,1,North America,أمريكا الشماليّة,68178284.6723,8576.789850000001,NORTH AMERICA,False
+2020,1,South America,أمريكا الجنوبية,242040884.0891,42324.83512,SOUTH AMERICA,False
+2020,1,Oceania,أوشانيا,21872090.5644,1622.22382,Oceania,False
+2020,2,Asia,آسيا,720391260.1357,95408.94449,Asia,False
+2020,2,Europe,أوروبا,262035844.6926,28168.22548,Europe,False
+2020,2,South America,أمريكا الجنوبية,269813687.0434,46236.77358,SOUTH AMERICA,False
+2020,2,Oceania,أوشانيا,18011393.7671,1239.31933,Oceania,False
+2020,3,Asia,آسيا,849877704.4501001,115173.6723,Asia,False
+2020,3,Africa,أفريقيا,11394035.7352,1244.04878,Africa,False
+2020,3,Europe,أوروبا,239400101.866,24927.39667,Europe,False
+2020,3,North America,أمريكا الشماليّة,151526403.2953,6335.3442700000005,NORTH AMERICA,False
+2022,1,Asia,آسيا,1320513230.1063,208340.076,Asia,False
+2022,1,Europe,أوروبا,675634325.4046,58148.621216,Europe,False
+2022,1,North America,أمريكا الشماليّة,89118564.4936,12895.06844,NORTH AMERICA,False
+2022,1,Oceania,أوشانيا,31052388.4652,1925.75987,Oceania,False
+2022,2,Asia,آسيا,1329493437.8949,215406.01522,Asia,False
+2022,2,Europe,أوروبا,944845567.5709,67104.15143,Europe,False
+2022,2,South America,أمريكا الجنوبية,543615494.7926,74144.7137,SOUTH AMERICA,False
+2022,3,Oceania,أوشانيا,26036179.6,1652.58005,Oceania,False
+2022,4,Asia,آسيا,1534684873.61,238854.61096,Asia,False
+2022,4,South America,أمريكا الجنوبية,512807934.59,58886.2121,SOUTH AMERICA,False
+2023,1,Asia,آسيا,1660808422.8,204201902.39,Asia,True
+2023,1,Europe,أوروبا,943930465.01,57714574.36,Europe,True
+2023,1,Oceania,أوشانيا,20611959.02,1204382.11,Oceania,False
+2023,2,Asia,آسيا,1752783667.49,209268876.98,Asia,True
+2023,2,South America,أمريكا الجنوبية,664788596.1700001,58734331.87,SOUTH AMERICA,True
+2023,3,Africa,أفريقيا,44243689.64,2991321.94,Africa,False
+2023,3,North America,أمريكا الشماليّة,399656509.85,18609091.86,NORTH AMERICA,True
+2023,3,Oceania,أوشانيا,26344346.01,2161084.12,Oceania,False
+2023,4,Africa,أفريقيا,33908743.67,2746441.36,Africa,False
+2024,2,Europe,أوروبا,1141927654.32,67941442.86,Europe,True
+2024,2,Oceania,أوشانيا,26271911.6,2022751.19,Oceania,False
+2024,2,Other,غير محدد,91899.9,4895.1,Other,False
+2024,3,Europe,أوروبا,996200048.56,77469124.46,Europe,True
+2024,3,North America,أمريكا الشماليّة,227132671.42,25614334.69,NORTH AMERICA,True
+2024,3,Oceania,أوشانيا,41105264.65,3003204.55,Oceania,False
+2024,4,South America,أمريكا الجنوبية,601161897.1,67010955.190000005,SOUTH AMERICA,True
+2024,4,Oceania,أوشانيا,34200675.4,2437090.99,Oceania,False
+2024,4,Other,غير محدد,164580.4,8559.8,Other,False
+2018,1,Africa,أفريقيا,10238338.0253,1704.7019,Africa,False
+2018,1,Europe,أوروبا,284246106.1051,29290.093771,Europe,False
+2018,1,South America,أمريكا الجنوبية,327009214.1896,57989.974752,South America,False
+2018,2,North America,أمريكا الشماليّة,50530219.5506,5364.583787,North America,False
+2018,3,Africa,أفريقيا,9396005.11,1276.19,Africa,False
+2018,3,North America,أمريكا الشماليّة,40296265.05,5218.442463,North America,False
+2018,4,Africa,أفريقيا,8778412.09,1257.17,Africa,False
+2018,4,Europe,أوروبا,242162736.0411,52157.805399,Europe,False
+2025,1,Africa,أفريقيا,25793911.66,2234.7058,AFRICA,False
+2025,1,Europe,أوروبا,777837710.66,49918.80583,EUROPE,False
+2025,2,Asia,آسيا,2496837864.41,209166.79377,ASIA,False
+2025,2,Oceania,أوشانيا,31378835.64,2166.59469,OCEANIA,False
+2025,2,Other,اخرى,53227.63,1.09722,OTHER,False
+2025,2,South America,أمريكا الجنوبية,574429585.6700001,74766.07118,SOUTH AMERICA,False
+2025,3,Africa,أفريقيا,31648976.48,2524.80413,AFRICA,False
+2025,3,North America,أمريكا الشماليّة,212949982.9,24974.16976,NORTH AMERICA,False
+2025,3,Other,اخرى,531.24,0.00045,OTHER,False
+2025,4,Asia,آسيا,2859125032.83,229884.34665,ASIA,False
+2025,4,South America,أمريكا الجنوبية,703287893.98,118793.10445,SOUTH AMERICA,False
